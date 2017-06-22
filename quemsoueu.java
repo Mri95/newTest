@@ -4,8 +4,8 @@ public class QuemSouEu {
     public static void main(String[] args)
           throws Exception {
         if (args.length != 1) {
-            System.err.println("Utilização:" +
-       "QuemSouEu NomeDaMáquina");
+            System.err.println("Utilização:" +
+       "Who i´m? ");
             System.exit(1);
 }
         InetAddress a =
